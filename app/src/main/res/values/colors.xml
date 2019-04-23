@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_19191b">#19191B</color>
+
+    <color name="card_view_bg">@color/white</color>
+    <color name="main_text_color">@color/white</color>
+    <color name="item_title">@color/black_19191b</color>
+    <color name="toolbar_button">@color/white</color>
+</resources>
